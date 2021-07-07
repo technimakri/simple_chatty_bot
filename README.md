@@ -4,5 +4,5 @@
 This simple script has a short conversation with the user and demonstrates accepting input, counting and looping.
 
 ## Learning objectives
-*Quick refresher project after period of not coding
-*Different styles of assigning multi-line strings
+* Quick refresher project after period of not coding
+* Different styles of assigning multi-line strings
